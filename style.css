@@ -81,6 +81,7 @@ blockquote {
   margin: 1.6em auto;
   padding: 1em 2em;
   font-size:1.8rem;
+  width: 600px;
 }
 blockquote p:last-child {
   margin-bottom: 0;  
