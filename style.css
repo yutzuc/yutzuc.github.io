@@ -20,7 +20,7 @@ body {
 a {
   font-weight: normal;
   text-decoration: none; 
-  color:#EF6D3D;
+  color:#8fce00;
 }
 a:focus {
   outline: thin dotted;
@@ -98,8 +98,8 @@ html {
   background-size:cover;
 }
 body {
-  max-width:800px;
-  margin:15px auto;
+  max-width:1200px;
+  margin:25px auto;
 }
 header, #content, footer { 
   background: rgba(0,0,0,.8); 
