@@ -78,10 +78,10 @@ q:after {
 blockquote {
   /*background-color: #F8F8F8;*/
   border-left: 2px solid #AFC0D2;
-  margin: 1.6em auto;
-  padding: 1em 2em;
+  margin: 1.6em 10%;
+  padding: .75em 1em;
   font-size:1.8rem;
-  width: 600px;
+
 }
 blockquote p:last-child {
   margin-bottom: 0;  
@@ -98,8 +98,8 @@ html {
   background-size:cover;
 }
 body {
-  max-width:800px;
-  margin:25px auto;
+  max-width:2000px;
+  margin:5px auto;
 }
 header, #content, footer { 
   background: rgba(0,0,0,.8); 
